@@ -1,5 +1,5 @@
-import {crateContext} from 'react';
-import { createContext } from 'istanbul-lib-report';
+import  React, {createContext} from 'react';
+
 
 const CartContext = createContext();
 
